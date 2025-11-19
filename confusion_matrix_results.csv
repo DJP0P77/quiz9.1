@@ -1,0 +1,9 @@
+Metric,Manual,Scikit-learn
+TP,6.0,6.0
+TN,6.0,6.0
+FP,1.0,1.0
+FN,2.0,2.0
+Accuracy,0.8,0.8
+Precision,0.8571428571428571,0.8571428571428571
+Recall,0.75,0.75
+F1 Score,0.7999999999999999,0.8
